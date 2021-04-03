@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sajjad Hosseinzadeh
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning python programing
+- 📫 How to reach me: Sajjad138280@gmail.com
