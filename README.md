@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sajjad Hosseinzadeh
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python programing
-- 📫 How to reach me: Sajjad138280@gmail.com
+- 👋 Hi, I’m Sajjad Hossein zadeh
+- 👀 I’m interested in software development, backend development, web scraping and ...
+- 🌱 I’m currently learning html/css
+- 📫 How to reach me: Sajad138280@gmail.com
