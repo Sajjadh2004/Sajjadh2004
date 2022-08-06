@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sajjad Hossein zadeh
 - 👀 I’m interested in software development, backend development, web scraping and ...
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning css
 - 📫 How to reach me: Sajad138280@gmail.com
